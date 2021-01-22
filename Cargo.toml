@@ -1,0 +1,11 @@
+[package]
+name = "telegram_oauth"
+version = "0.1.0"
+authors = ["incker <iamlolylol@gmail.com>"]
+edition = "2018"
+description = "Telegram Oauth server validation"
+
+[dependencies]
+sha2 = "0.9.2"
+hmac = "0.10.1"
+hex = "0.4.2"
